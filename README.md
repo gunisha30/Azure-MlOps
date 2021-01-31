@@ -1,9 +1,6 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
+# Operationalizing Machine Learning
 
-
-# Your Project Title Here
-
-*TODO:* Write an overview to your project.
+This project aims at executing an Automated ML pipeline, deploy it and subsequently consuming the deployed model.
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
