@@ -1,6 +1,6 @@
 # Operationalizing Machine Learning
 
-This project aims at executing an Automated ML pipeline, deploy it and subsequently consume the deployed model. A bank marketing dataset is used and the goal is a classification task. The project is implemented using Azure's ML Studio as well as Python SDK. 
+This project aims to execute an Automated ML pipeline, deploy it and subsequently consume the deployed model. A bank marketing dataset is used and the goal is a classification task. The project is implemented using Azure's ML Studio as well as Python SDK. 
 
 ## Architectural Diagram
 
