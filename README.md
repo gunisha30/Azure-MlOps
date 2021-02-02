@@ -68,3 +68,8 @@ This project aims to execute an Automated ML pipeline, deploy it and subsequentl
 
 ## Screen Recording
 The steps of this project have been briefly demonstrated in this short screen recording. It can be found [here](https://drive.google.com/file/d/111UbZK_HRux3Z7MkVkE4YsOn6PAH-B5N/view?usp=sharing)
+
+## Future Improvements
+1. The dataset has a class imbalance problem which can be fixed.
+2. A different and more efficient model can be used for training and classification.
+3. Different evaluation metrics can be calculated for studying model's performance.
