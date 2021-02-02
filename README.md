@@ -9,21 +9,21 @@ This project aims at executing an Automated ML pipeline, deploy it and subsequen
 
 1. Upload the dataset needed for Classification task.
 
-![image](https://github.com/gunisha30/Azure-MlOps/blob/main/dataset.png)
+![image](https://github.com/gunisha30/Azure-MlOps/blob/main/Screenshots/dataset.png)
 
 2. Create a new automated ML run providing the required configuration.
 
-![image](https://github.com/gunisha30/Azure-MlOps/blob/main/automlrundetails.png)
+![image](https://github.com/gunisha30/Azure-MlOps/blob/main/Screenshots/automlrundetails.png)
 
-![image](https://github.com/gunisha30/Azure-MlOps/blob/main/automlrundetails2.png)
+![image](https://github.com/gunisha30/Azure-MlOps/blob/main/Screenshots/automlrundetails2.png)
 
-![image](https://github.com/gunisha30/Azure-MlOps/blob/main/automlrunmodels.png)
+![image](https://github.com/gunisha30/Azure-MlOps/blob/main/Screenshots/automlrunmodels.png)
 
-![image](https://github.com/gunisha30/Azure-MlOps/blob/main/best-model-accuracy.png)
+![image](https://github.com/gunisha30/Azure-MlOps/blob/main/Screenshots/best-model-accuracy.png)
 
 3. Choose the best model for deployment. Use Azure Container Instance and enable authentication while deploying. The model will be available in the Endpoints section once it is deployed.
 
-![image](https://github.com/gunisha30/Azure-MlOps/blob/main/deploy-success.png)
+![image](https://github.com/gunisha30/Azure-MlOps/blob/main/Screenshots/deploy-success.png)
 
 4. Make necessary changes in the file logs.py to enable Application Insights. 
 
