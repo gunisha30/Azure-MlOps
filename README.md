@@ -65,6 +65,7 @@ This project aims to execute an Automated ML pipeline, deploy it and subsequentl
 
 ![image](https://github.com/gunisha30/Azure-MlOps/blob/main/Screenshots/jupynb%20run%20details.png)
 
+![image](https://github.com/gunisha30/Azure-MlOps/blob/main/Screenshots/restendpoint.png)
 
 ## Screen Recording
 The steps of this project have been briefly demonstrated in this short screen recording. It can be found [here](https://drive.google.com/file/d/111UbZK_HRux3Z7MkVkE4YsOn6PAH-B5N/view?usp=sharing)
